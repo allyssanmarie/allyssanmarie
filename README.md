@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá, me chamo Allyssan Castro 👋
+
+📖 3º Semestre em Análise e Desenvolvimento de Sistemas na UNIP.<br>
+📚 Estudante de Análise de Dados e Plataformas LowCode no Bootcamp da Embraer/Soulcode Academy.<br>
+📔 Conhecimento em C e lógica de programação.<br>
+📑 Conhecimento em métodos ágeis: SCRUM.<br>
+
+🌱 Atualmente estou fazendo cursos de: C#, Python, PHP e SQL.
+
 
 <!--
 **allyssanmarie/allyssanmarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
