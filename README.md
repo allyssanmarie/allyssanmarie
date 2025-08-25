@@ -5,7 +5,7 @@
 📔 Conhecimento em C e lógica de programação.<br>
 📑 Conhecimento em métodos ágeis: SCRUM.<br>
 
-🌱 Atualmente estou fazendo cursos de: C#, Python, PHP e SQL.
+🌱 Atualmente estou fazendo cursos de: HTML, CSS, JavaScript, Python, PHP e SQL.
 
 
 <!--
