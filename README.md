@@ -1,6 +1,6 @@
 ## Olá, me chamo Allyssan Castro 👋
 
-📖 3º Semestre em Análise e Desenvolvimento de Sistemas na UNIP.<br>
+📖 4º Semestre em Análise e Desenvolvimento de Sistemas na UNIP.<br>
 📚 Estudante de Análise de Dados e Plataformas LowCode no Bootcamp da Embraer/Soulcode Academy.<br>
 📔 Conhecimento em C e lógica de programação.<br>
 📑 Conhecimento em métodos ágeis: SCRUM.<br>
